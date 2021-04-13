@@ -14,7 +14,7 @@ module.exports = {
         theme_color: `#a2466c`,
         display: `standalone`,
         icon: `src/images/icon.png`,
-        crossOrigin: `anonymous`, // `use-credentials` or `anonymous`
+        crossOrigin: `use-credentials`, // `use-credentials` or `anonymous`
       },
     },
   ],
